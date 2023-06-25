@@ -16,6 +16,7 @@
 		00AC118A2A4857750024048E /* food_listTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC11892A4857750024048E /* food_listTests.swift */; };
 		00AC11942A4857750024048E /* food_listUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC11932A4857750024048E /* food_listUITests.swift */; };
 		00AC11962A4857750024048E /* food_listUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC11952A4857750024048E /* food_listUITestsLaunchTests.swift */; };
+		00AC11A32A485E5A0024048E /* food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC11A22A485E5A0024048E /* food.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		00AC118F2A4857750024048E /* food_listUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = food_listUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00AC11932A4857750024048E /* food_listUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food_listUITests.swift; sourceTree = "<group>"; };
 		00AC11952A4857750024048E /* food_listUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food_listUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		00AC11A22A485E5A0024048E /* food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				00AC11722A4857740024048E /* AppDelegate.swift */,
 				00AC11742A4857740024048E /* SceneDelegate.swift */,
 				00AC11762A4857740024048E /* ViewController.swift */,
+				00AC11A22A485E5A0024048E /* food.swift */,
 				00AC11782A4857740024048E /* Main.storyboard */,
 				00AC117B2A4857750024048E /* Assets.xcassets */,
 				00AC117D2A4857750024048E /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00AC11772A4857740024048E /* ViewController.swift in Sources */,
+				00AC11A32A485E5A0024048E /* food.swift in Sources */,
 				00AC11732A4857740024048E /* AppDelegate.swift in Sources */,
 				00AC11752A4857740024048E /* SceneDelegate.swift in Sources */,
 			);
